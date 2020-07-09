@@ -1,0 +1,6 @@
+Elections Results!!!
+----------------------------
+Total Votes:  7042002
+----------------------------
+Correy: 20% (1408400)'.format(x,y))
+Winner: Correy
